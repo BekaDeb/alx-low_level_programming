@@ -15,3 +15,7 @@ script that generates the assembly code of a C code and save it in an output fil
 # 3. Name
 
 script that compiles a C file and creates an executable named cisfun.
+
+# 4. Hello, puts
+
+C program that prints exactly "Programming is like building a multilingual puzzle.
